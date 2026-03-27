@@ -112,6 +112,44 @@ O modelo supera o baseline aleatório (50%), indicando aprendizado de padrões.
 
 ---
 
+## 📊 Resultados Obtidos
+
+### 🏦 Itaú (ITUB4)
+
+* Acurácia: **65.83%**
+* Precisão: **40.00%**
+* Recall: **18.67%**
+* F1-Score: **25.45%**
+
+---
+
+### 🏦 Bradesco (BBDC4)
+
+* Acurácia: **57.92%**
+* Precisão: **31.11%**
+* Recall: **16.67%**
+* F1-Score: **21.71%**
+
+---
+
+### 🏦 Banco do Brasil (BBAS3)
+
+* Acurácia: **56.25%**
+* Precisão: **44.78%**
+* Recall: **30.61%**
+* F1-Score: **36.36%**
+
+---
+
+### 🏦 Santander (SANB11)
+
+* Acurácia: **60.83%**
+* Precisão: **39.58%**
+* Recall: **22.62%**
+* F1-Score: **28.79%**
+
+---
+
 ## 📈 Interpretação dos Gráficos
 
 O projeto gera gráficos de **Real vs Previsto** para cada ação, onde:
