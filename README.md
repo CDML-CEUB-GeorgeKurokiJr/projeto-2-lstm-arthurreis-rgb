@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo prever a **direção do preço (alta ou queda)** de ações bancárias brasileiras utilizando **Redes Neurais Recorrentes (LSTM)**.
 
-Ao invés de prever valores exatos (regressão), o modelo resolve um problema de **classificação binária**, indicando:
+Ao invés de prever valores exatos, o modelo resolve um problema de **classificação binária**, indicando:
 
 * **1 → o preço irá subir**
 * **0 → o preço irá cair**
